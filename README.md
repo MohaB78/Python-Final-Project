@@ -42,7 +42,7 @@ Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 ### Visualization
 Using of **2 librairies**:\
 -Matplotlib\
--Seaborn\
+-Seaborn
 
 The first plot is to see **number of bikes rented per season**: people rent more bikes in summer.
 
@@ -66,7 +66,7 @@ In this part, we analyze the following algorithms to get the best for making pre
 - Support Vector Machine Regression
 - DecisionTreeRegressor
 - BaggingRegressor
-- RandomForestRegressor\
+- RandomForestRegressor
 
 For each model, we calculate score of the model, R² score and mean squared error. There are also scatter plots to visualize if the prediction is correct.
 
